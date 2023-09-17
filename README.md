@@ -11,7 +11,7 @@ The repository contains all the required deliverable files for the specific proj
    - Model Weights of the Best Model
    - Video for Inference
    - Video for Testing
-   - 
+     
 Please note that: 
 1. Since it's the first time we commit code and files in github in case there are any issues please contact Giannis Demertzis (de.yiannis@gmail.com)
 2. The shared Google Drive folders are not publicly available but shared only with the instructor (Georgios Perakis). In case more people need access or if there are is any issue with the rights please contact Giannis Demertzis.
